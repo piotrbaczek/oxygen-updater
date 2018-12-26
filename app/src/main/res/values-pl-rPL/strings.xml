@@ -7,86 +7,86 @@
     <!-- Update information strings-->
     <string name="update">Zaktualizuj</string>
     <string name="update_information_close">Zamknij</string>
-    <string name="update_information_description_not_available">There is no official information about the new features this update provides. Usually, such an update provides bug fixes, performance enhancements, and / or critical security updates for your device.</string>
+    <string name="update_information_description_not_available">Brak oficjalnych informacji o funkcjonalnościach w tej wersji. Zazwyczaj taka aktualizacja zawiera poprawki błędów, poprawki wydajności i / lub krytyczne poprawki zabezpieczeń dla Twojego urządzenia.</string>
     <string name="update_information_file_name">Plik: %1$s</string>
     <string name="update_information_for">dla</string>
-    <string name="update_information_header">Update</string>
-    <string name="update_information_header_short">Update</string>
-    <string name="update_information_installed_update">The latest system update is:</string>
+    <string name="update_information_header">Aktualizacja</string>
+    <string name="update_information_header_short">Aktualizacja</string>
+    <string name="update_information_installed_update">Ostatnia wersja systemu:</string>
     <string name="update_information_last_checked_on">Data ostatniego sprawdzenia: %1$s</string>
     <string name="update_information_latest_available_update">Nowa wersja jest dostępna:</string>
-    <string name="update_information_no_update_data_available">No update information is available.</string>
+    <string name="update_information_no_update_data_available">Brak informacji o aktualizacji.</string>
     <string name="update_information_oxygen_os_version">Wersja Oxygen OS: %1$s</string>
     <string name="update_information_system_is_up_to_date">Twój system jest aktualny.</string>
-    <string name="update_information_unknown_update_name">Unnamed update for %1$s</string>
-    <string name="update_information_version">&#160;version:</string>
-    <string name="update_information_view_update_information">View update information</string>
+    <string name="update_information_unknown_update_name">Aktualizacja bez nazwy dla: %1$s</string>
+    <string name="update_information_version">&#160;wersja:</string>
+    <string name="update_information_view_update_information">Zobacz informacje o aktualizacji</string>
 
     <!-- Server status warning strings -->
-    <string name="server_status_error">Some features do not work.</string>
-    <string name="server_status_unreachable">The server can\'t be reached. Try refreshing the page.</string>
-    <string name="server_status_warning">Some features may not work properly.</string>
+    <string name="server_status_error">Niektóre rzeczy mogą nie działać.</string>
+    <string name="server_status_unreachable">Nie można nawiązać połączenia z serwerem. Odśwież stronę.</string>
+    <string name="server_status_warning">Niektóre rzeczy mogą nie działać.</string>
 
     <!-- New app version message strings -->
-    <string name ="new_app_version">App update available! Version &lt;a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">%1$s&lt;/a> has been released!</string>
+    <string name ="new_app_version">Aktualizacja dostępna! Wersja &lt;a href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">%1$s&lt;/a> została właśnie wydana!</string>
 
     <!-- Date and time strings -->
-    <string name="time_at">at</string>
-    <string name="time_today">Today</string>
-    <string name="time_yesterday">Yesterday</string>
+    <string name="time_at">&nbsp;</string>
+    <string name="time_today">Dzisiaj</string>
+    <string name="time_yesterday">Wczoraj</string>
 
     <!-- Downloader strings-->
-    <string name="download">Download</string>
-    <string name="downloaded">Downloaded</string>
-    <string name="downloading">Downloading…</string>
+    <string name="download">Pobierz</string>
+    <string name="downloaded">Pobrano</string>
+    <string name="downloading">Pobieranie…</string>
 
-    <string name="download_already_downloaded">The update was already downloaded. It is ready to get installed.</string>
-    <string name="download_complete">Download complete</string>
-    <string name="download_complete_notification">Download complete. Tap to start the installation.</string>
+    <string name="download_already_downloaded">Aktualizacja została pobrana i jest gotowa do instalacji.</string>
+    <string name="download_complete">Pobieranie ukończone</string>
+    <string name="download_complete_notification">Pobieranie ukończone. Kliknij żeby rozpocząć instalację.</string>
 
     <string name="download_description">Oxygen Updater</string>
 
-    <string name="download_error">Download Error</string>
-    <string name="download_error_close">CLOSE</string>
-    <string name="download_error_corrupt">The downloaded update file is damaged! Please try downloading it again.</string>
-    <string name="download_error_directory">It looks like there is no storage available on your device. If you have an SD card, please make sure your device is not connected to a PC and make sure the SD card is working.</string>
-    <string name="download_error_network">A network error occurred while downloading the update. Please make sure your Internet connection works and try downloading it again.</string>
-    <string name="download_error_retry">RETRY</string>
-    <string name="download_error_sd_card">There is no SD card present in your device. Please insert an SD card into your device. After you have done so, try downloading the update again.</string>
-    <string name="download_error_storage">There is insufficient storage space available on your device to download the update. Please remove some files and try downloading it again.</string>
+    <string name="download_error">Błąd pobierania</string>
+    <string name="download_error_close">ZAMKNIJ</string>
+    <string name="download_error_corrupt">Plik aktualizacji jest uszkodzony! Pobierz go ponownie.</string>
+    <string name="download_error_directory">Wygląda na to że Twoje urządzenie nie ma pamięci masowej. Jeżeli masz kartę pamięci, sprawdź czy urządzenie nie jest podłączone do komputera, a karta pamięci działa poprawnie.</string>
+    <string name="download_error_network">Podczas pobierania aktualizacji wystąpił błąd połączenia. Upewnij się że jesteś podłączony do sieci Internet i spróbuj ponownie.</string>
+    <string name="download_error_retry">PONÓW</string>
+    <string name="download_error_sd_card">Brak pamięci masowej w Twoim urządzeniu. Proszę włożyć kartę pamięci do urządzenia i spróbować ponownie pobrać aktualizację.</string>
+    <string name="download_error_storage">Brak wystarczającej ilości miejsca w pamięci masowej aby pobrać aktualizację. Usuń niepotrzebne pliki i spróbuj ponownie.</string>
     
-    <string name="download_failed">Download failed</string>
-    <string name="download_in_background">Your update will be downloaded in the background…</string>
-    <string name="download_oxygen_os">Oxygen OS Version</string>
-    <string name="download_paused_unknown">Your download may be stuck. Try re-downloading the update…</string>
-    <string name="download_pending">Your download will start soon…</string>
-    <string name="download_permissions">Tap Download again to download the update.</string>
+    <string name="download_failed">Pobranie aktualizacji nieudane</string>
+    <string name="download_in_background">Twoja aktualizacja zostanie pobrana w tle…</string>
+    <string name="download_oxygen_os">Wersja Oxygen OS</string>
+    <string name="download_paused_unknown">Twoja aktualizacja nie odpowiada. Spróbuj pobrać ponownie…</string>
+    <string name="download_pending">Twoje pobieranie wkrótce się rozpocznie…</string>
+    <string name="download_permissions">Kliknij "Pobierz" ponownie aby pobrać aktualizację.</string>
 
-    <string name="download_notification_error_network">Network error. Check your connection and try again.</string>
-    <string name="download_notification_error_storage_full">Insufficient storage space.</string>
-    <string name="download_notification_error_storage_not_found">Disconnect the device from your computer and try again.</string>
-    <string name="download_notification_error_sd_card_missing">Insert an SD Card and try again.</string>
-    <string name="download_notification_error_corrupt">File verification failed. Check your connection and try again.</string>
+    <string name="download_notification_error_network">Błąd połączenia. Sprawdź połączenie z Internetem i spróbuj ponownie.</string>
+    <string name="download_notification_error_storage_full">Brak miejsca w pamięci masowej.</string>
+    <string name="download_notification_error_storage_not_found">Odłącz urządzenie od komputera i spróbuj ponownie.</string>
+    <string name="download_notification_error_sd_card_missing">Włóż kartę pamięci i spróbuj ponownie.</string>
+    <string name="download_notification_error_corrupt">Weryfikacja pliku nieudana. Sprawdź połączenie z Internetem i spróbuj ponownie.</string>
 
-    <string name="download_progress_text_hours_remaining">%1$d%%, about %2$d hours remaining</string>
-    <string name="download_progress_text_less_than_a_minute_remaining">%1$d%%, less than a minute remaining</string>
-    <string name="download_progress_text_minutes_remaining">%1$d%%, about %2$d minutes remaining</string>
-    <string name="download_progress_text_one_hour_remaining">%1$d%%, about 1 hour remaining</string>
-    <string name="download_progress_text_one_minute_remaining">%1$d%%, about a minute remaining</string>    
-    <string name="download_progress_text_seconds_remaining">%1$d%%, a few seconds remaining</string>
-    <string name="download_progress_text_unknown_time_remaining">%1$d%%, calculating time remaining…</string>
-    <string name="download_progress_text_verifying">100%, Verifying file…</string>
+    <string name="download_progress_text_hours_remaining">%1$d%%, pozostało około %2$d godzin(y)</string>
+    <string name="download_progress_text_less_than_a_minute_remaining">%1$d%%, pozostało mniej niż minuta</string>
+    <string name="download_progress_text_minutes_remaining">%1$d%%, pozostało około %2$d minut(y)</string>
+    <string name="download_progress_text_one_hour_remaining">%1$d%%, pozostało około 1 godziny</string>
+    <string name="download_progress_text_one_minute_remaining">%1$d%%, pozostało około 1 minuty</string>
+    <string name="download_progress_text_seconds_remaining">%1$d%%, poczekaj jeszcze parę sekund</string>
+    <string name="download_progress_text_unknown_time_remaining">%1$d%%, obliczam pozostały czas…</string>
+    <string name="download_progress_text_verifying">100%, Weryfikuję plik…</string>
 
     <string name="download_size_megabyte">%1$d MB</string>
-    <string name="download_unknown_update_name">Oxygen OS Update</string>
+    <string name="download_unknown_update_name">Aktualizacja Oxygen OS</string>
 
-    <string name="download_verifying">Verifying…</string>
-    <string name="download_verifying_error">File is damaged</string>
-    <string name="download_verifying_start">Your download will now be verified…</string>
+    <string name="download_verifying">Weryfikuję…</string>
+    <string name="download_verifying_error">Plik uszkodzony</string>
+    <string name="download_verifying_start">Twoja aktualizacja zostanie zweryfikowana…</string>
 
-    <string name="download_waiting_for_network">Waiting for a network connection…</string>
-    <string name="download_waiting_for_wifi">Waiting for a Wi-Fi connection…</string>
-    <string name="download_will_retry_soon">Your download will resume soon…</string>
+    <string name="download_waiting_for_network">Oczekuję na sygnał sieci…</string>
+    <string name="download_waiting_for_wifi">Oczekuję na sygnał sieci Wi-Fi…</string>
+    <string name="download_will_retry_soon">Pobieranie Twojej aktualizacji wkrótce zostanie wznowione…</string>
 
     <!-- 2.4.8 Temp downloading issues strings -->
     <!-- BEGIN: Block of strings added about known download issue -->
@@ -98,13 +98,13 @@
     <!-- END: Block of strings added about known download issue -->
 
     <!-- Settings strings-->
-    <string name="settings">Settings</string>
-    <string name="settings_buy_button_buy">Buy (%1$s)</string>
-    <string name="settings_buy_button_bought">Purchased</string>
-    <string name="settings_buy_button_not_possible">Unavailable</string>
-    <string name="settings_buy_ad_free_label">Upgrade to Ad-Free:</string>
-    <string name="settings_category_other">Other:</string>
-    <string name="settings_device">Device</string>
+    <string name="settings">Ustawienia</string>
+    <string name="settings_buy_button_buy">Kup (%1$s)</string>
+    <string name="settings_buy_button_bought">Zakupiono</string>
+    <string name="settings_buy_button_not_possible">Niedostępny</string>
+    <string name="settings_buy_ad_free_label">Bez reklam:</string>
+    <string name="settings_category_other">Inne:</string>
+    <string name="settings_device">Urządzenie</string>
     <string name="settings_entered_incorrectly">Error saving your settings. Please go back and select your device / update method again.</string>
     <string name="settings_explanation_incremental_full_update">An incremental update can only be installed if you were running the latest system software version before this update was released.\n\nA full update can be always be installed - regardless of the current system software version running on your device.\n\nA beta update of OxygenOS can only be installed if you are already using a beta version.</string>
     <string name="settings_explanation_update_methods">Explanation of the update methods</string>]
